@@ -21,16 +21,18 @@ This project is an interactive chatbot application that utilizes the OpenAI API 
 5. **Interact with the Chatbot**: Navigate to the web page in your browser and start asking questions about the available products. The chatbot will respond with relevant information.
 
 ## Project Structure
+```bash
 ├── public/
-│   ├── index.html
-│   └── script.js
+│ ├── index.html
+│ └── script.js
 ├── routes/
-│   └── api.js
+│ └── api.js
 ├── utils/
-│   └── openai.js
+│ └── openai.js
 ├── app.js
 ├── package.json
 └── README.md
+```
 
 public/: Contains the HTML and JavaScript files for the web page.
 routes/: Holds the API routes for the Express server.
