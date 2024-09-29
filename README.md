@@ -34,12 +34,12 @@ This project is an interactive chatbot application that utilizes the OpenAI API 
 └── README.md
 ```
 
-public/: Contains the HTML and JavaScript files for the web page.
-routes/: Holds the API routes for the Express server.
-utils/: Includes utility functions, such as the OpenAI API integration.
-app.js: The main entry point of the Express application.
-package.json: Lists the project dependencies.
-README.md: The project documentation.
+- **public/**: Contains the HTML and JavaScript files for the web page.  
+- **routes/**: Holds the API routes for the Express server.  
+- **utils/**: Includes utility functions, such as the OpenAI API integration.  
+- **app.js**: The main entry point of the Express application.  
+- **package.json**: Lists the project dependencies.  
+- **README.md**: The project documentation.  
 
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to create a new issue or submit a pull request. Contributions are welcome!
