@@ -3,7 +3,7 @@
 ## Project Overview
 This project is an interactive chatbot application that utilizes the OpenAI API to provide users with answers to questions about specific products. The application is built using an Express web server that serves a web page, allowing users to interact with the chatbot and view the responses.
 
-<img width="1433" alt="Screen Shot 2024-09-29 at 12 18 14 AM" src="https://github.com/user-attachments/assets/0fc79f4d-a741-4780-9713-ba943fa587a8">
+<img width="1429" alt="Screen Shot 2024-09-29 at 12 43 46 AM" src="https://github.com/user-attachments/assets/d4307f98-8ab2-4981-9ace-bd38249e24e6">
 
 ## Key Features
 - **Product-Specific Chatbot**: The application includes an OpenAI Assistant that is capable of answering questions about products detailed in separate files. The assistant can provide information on a variety of products, including those from a bank and a grocery store.
